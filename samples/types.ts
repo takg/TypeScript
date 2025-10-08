@@ -10,7 +10,6 @@ let floatNum: number = 1.23;
 console.log("number floatNum having value:" + floatNum);
 let hexNum: number = 0xff;
 console.log("number hex having value:" + hexNum);
-let name: string = "Testing";
-console.log("string having value:" + name);
-const bigInt: bigint = 123456789123456789n;
-console.log("bigint bigInt having value:" + bigInt);
+let first_name: string = "Testing";
+console.log("string having value:" + first_name);
+
