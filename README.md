@@ -21,7 +21,31 @@ It covers core concepts with **simple examples**, making it suitable for beginne
 - Node.js (v16+ recommended)
 - npm or yarn
 
-Check installation:
+## ⚙️ Setup Instructions
+
+Clone the repository:
+
 ```bash
-node -v
-npm -v
+git clone https://github.com/your-username/typescript-basics.git
+cd typescript-basics
+```
+
+Install TypeScript globally (optional but recommended):
+```bash
+npm install -g typescript
+```
+
+Install dependencies:
+```bash
+npm install
+```
+
+Compile TypeScript:
+```bash
+tsc
+```
+
+Run compiled JavaScript:
+```bash
+node dist/index.js
+```
