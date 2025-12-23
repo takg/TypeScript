@@ -50,24 +50,26 @@ Run compiled JavaScript:
 node dist/index.js
 ```
 ## 📂 Project Structure
-typescript-basics/
-│
-├── src/
-│   ├── 01-hello-world.ts
-│   ├── 02-types.ts
-│   ├── 03-functions.ts
-│   ├── 04-interfaces.ts
-│   ├── 05-classes.ts
-│   ├── 06-enums.ts
-│   ├── 07-generics.ts
-│   ├── 08-union-intersection.ts
-│   ├── 09-modules.ts
-│   └── 10-async-await.ts
-│
-├── dist/              # Compiled JavaScript output
-├── tsconfig.json      # TypeScript configuration
-├── package.json
-└── README.md
+
+typescript-basics/  
+│  
+├── src/  
+│   ├── 01-hello-world.ts  
+│   ├── 02-types.ts  
+│   ├── 03-functions.ts  
+│   ├── 04-interfaces.ts  
+│   ├── 05-classes.ts  
+│   ├── 06-enums.ts  
+│   ├── 07-generics.ts  
+│   ├── 08-union-intersection.ts  
+│   ├── 09-modules.ts  
+│   └── 10-async-await.ts  
+│  
+├── dist/              # Compiled JavaScript output  
+├── tsconfig.json      # TypeScript configuration  
+├── package.json  
+└── README.md  
+
 ## 📘 Topics Covered
 🔹 Basics
 
