@@ -132,3 +132,28 @@ Namespaces
 Promises
 
 async / await
+
+## 🧪 How to Run Individual Files
+
+Compile a specific file:
+```
+tsc src/01-hello-world.ts
+```
+
+Run it:
+```
+node src/01-hello-world.js
+```
+## 📌 Useful Commands
+
+| Command        | Description           |
+| -------------- | --------------------- |
+| `tsc`          | Compile TypeScript    |
+| `tsc --watch`  | Compile in watch mode |
+| `tsc --init`   | Create tsconfig.json  |
+| `node file.js` | Run JavaScript        |
+
+## 🤝 Contribution
+
+This repository is for learning purposes.
+Feel free to fork, experiment, and enhance it with more examples.
