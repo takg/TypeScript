@@ -55,7 +55,7 @@ typescript-basics/
 │  
 ├── src/  
 │   ├── [01-hello-world.ts](https://github.com/takg/TypeScript/blob/main/src/01-hello_world.ts)  
-│   ├── 02-types.ts  
+│   ├── [02-types.ts](https://github.com/takg/TypeScript/blob/main/src/02-types.ts)  
 │   ├── 03-functions.ts  
 │   ├── 04-interfaces.ts  
 │   ├── 05-classes.ts  
