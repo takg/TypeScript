@@ -1,3 +1,11 @@
+/*
+- How to define an interface and use it to type objects.
+- Optional properties with ?.
+- Readonly properties to prevent modification.
+- Function types inside interfaces.
+- Extending interfaces to create more specific types.
+- Indexable interfaces for arrays or objects with dynamic keys.
+*/
 // 1. Basic interface
 interface Person {
     name: string;
