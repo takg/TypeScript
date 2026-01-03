@@ -61,7 +61,7 @@ typescript-basics/
 │   ├── [05-classes.ts](https://github.com/takg/TypeScript/blob/main/src/05-classes.ts)  
 │   ├── [06-enums.ts](https://github.com/takg/TypeScript/blob/main/src/06-enums.ts)  
 │   ├── [07-generics.ts](https://github.com/takg/TypeScript/blob/main/src/07-generics.ts)  
-│   ├── [08-union-intersection.ts]()  
+│   ├── [08-union-intersection.ts](https://github.com/takg/TypeScript/blob/main/src/08-union-intersection.ts)  
 │   ├── [09-modules.ts]()  
 │   └── [10-async-await.ts](https://github.com/takg/TypeScript/blob/main/src/10-async-await.ts)  
 │  
