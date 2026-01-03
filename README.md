@@ -59,7 +59,7 @@ typescript-basics/
 │   ├── [03-functions.ts](https://github.com/takg/TypeScript/blob/main/src/03-functions.ts)  
 │   ├── [04-interfaces.ts  ](https://github.com/takg/TypeScript/blob/main/src/04-interfaces.ts)  
 │   ├── [05-classes.ts](https://github.com/takg/TypeScript/blob/main/src/05-classes.ts)  
-│   ├── 06-enums.ts  
+│   ├── [06-enums.ts](https://github.com/takg/TypeScript/blob/main/src/06-enums.ts)  
 │   ├── 07-generics.ts  
 │   ├── 08-union-intersection.ts  
 │   ├── 09-modules.ts  
