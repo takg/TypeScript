@@ -60,9 +60,9 @@ typescript-basics/
 │   ├── [04-interfaces.ts  ](https://github.com/takg/TypeScript/blob/main/src/04-interfaces.ts)  
 │   ├── [05-classes.ts](https://github.com/takg/TypeScript/blob/main/src/05-classes.ts)  
 │   ├── [06-enums.ts](https://github.com/takg/TypeScript/blob/main/src/06-enums.ts)  
-│   ├── 07-generics.ts  
-│   ├── 08-union-intersection.ts  
-│   ├── 09-modules.ts  
+│   ├── [07-generics.ts](https://github.com/takg/TypeScript/blob/main/src/07-generics.ts)  
+│   ├── [08-union-intersection.ts]()  
+│   ├── [09-modules.ts]()  
 │   └── [10-async-await.ts](https://github.com/takg/TypeScript/blob/main/src/10-async-await.ts)  
 │  
 ├── dist/              # Compiled JavaScript output  
