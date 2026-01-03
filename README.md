@@ -63,7 +63,7 @@ typescript-basics/
 │   ├── 07-generics.ts  
 │   ├── 08-union-intersection.ts  
 │   ├── 09-modules.ts  
-│   └── 10-async-await.ts  
+│   └── [10-async-await.ts](https://github.com/takg/TypeScript/blob/main/src/10-async-await.ts)  
 │  
 ├── dist/              # Compiled JavaScript output  
 ├── tsconfig.json      # TypeScript configuration  
